@@ -1,0 +1,1 @@
+cmd.exe "npm install -g grunt-cli"
